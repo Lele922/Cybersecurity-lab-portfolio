@@ -90,4 +90,4 @@ This lab demonstrates how ARP spoofing enables attackers to intercept network tr
 
 ## Screenshot 
 images/IMG_20260424_225532.jpg
-
+images/IMG_20260424_231127.jpg
