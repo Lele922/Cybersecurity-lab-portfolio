@@ -87,3 +87,7 @@ External connections identified
 ## Conclusion
 
 This lab demonstrates how ARP spoofing enables attackers to intercept network traffic within a local network. It highlights the importance of encryption and secure communication protocols.
+
+## Screenshot 
+images/IMG_20260424_225532.jpg
+
